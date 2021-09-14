@@ -1,1 +1,1 @@
-# Clustering_algorithms_project
+# Clustering algorithms applications
